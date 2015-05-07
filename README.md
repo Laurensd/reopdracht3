@@ -1,3 +1,4 @@
 # reopdracht3
 Requirements engineering 3
-dit is een readme
+Dit is voor opdracht 3 van het vak Requirements engineering
+Er wordt hier gekeken naar de ticketing/issues feature van GitHub
